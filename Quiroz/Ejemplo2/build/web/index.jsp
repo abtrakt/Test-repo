@@ -27,7 +27,7 @@
     <body>
         
         <h1>Bienvenidos</h1>
-        <p>Esta es una página web de prueba hecha por Carlos y Olexy</p>
+        <p>Esta es una página web de prueba hecha por Carlos y Oleksiy</p>
         <form action="ValidaLogin" method="post">
             <input id="user" name="user" type="text">
             <input id="password" name="password" type="password">
